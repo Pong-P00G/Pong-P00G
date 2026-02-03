@@ -26,11 +26,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pong.425807)
 
 ---
-
+<!--
 ### ⚡ Fun Fact
 
 I love exploring new programming languages and tools. If you have a favorite, let’s talk about it!
-
+-->
 ---
 
 <!--
