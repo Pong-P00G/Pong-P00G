@@ -1,6 +1,6 @@
 # Hi there, I’m Pong-P00G 👋
 
-🎓 **Student | Full-Stack **
+🎓 Student | Full-Stack
 
 ---
 
