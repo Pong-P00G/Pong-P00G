@@ -9,7 +9,7 @@
 ╚═╝      ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝     ╚═╝      ╚═════╝  ╚═════╝  ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue.js+%2B+TailwindCSS+Enthusiast+%F0%9F%8E%A8;Building+Beautiful%2C+Modern+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Vue.js+%2B+TailwindCSS+Enthusiast+%F0%9F%8E%A8;Node+JavaScript+Python+Postgre+%E2%9C%A8;Building+Beautiful%2C+Modern+Interfaces+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pong.425807)
 ![Profile Views](https://komarev.com/ghpvc/?username=Pong-P00G&color=6EE7B7&style=for-the-badge&label=PROFILE+VIEWS)
